@@ -1,5 +1,5 @@
 body {
-  background-color: #def4f0;
+  background-color: #e7ede82f;
 }
 
 hr {
@@ -16,4 +16,8 @@ h3 {
 }
 h2 {
   color: #58b4ae;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
 }
